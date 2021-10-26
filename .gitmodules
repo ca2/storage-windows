@@ -1,0 +1,6 @@
+[submodule "Win32"]
+	path = Win32
+	url = ../storage-windows-Win32
+[submodule "x64"]
+	path = x64
+	url = ../storage-windows-x64
